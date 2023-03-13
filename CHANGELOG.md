@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/Fdawgs/sft-logos/compare/v1.0.1...v1.0.2) (2023-03-13)
+
+
+### Miscellaneous
+
+* ignore bun lockfile ([#4](https://github.com/Fdawgs/sft-logos/issues/4)) ([fe8c388](https://github.com/Fdawgs/sft-logos/commit/fe8c38829c7ddd313c8eb24208ac0cc0a499b32d))
+* **package:** add funding url ([42c0c8b](https://github.com/Fdawgs/sft-logos/commit/42c0c8b24afaa68ff5fe7350fb7634aa018b3a32))
+
 ## [1.0.1](https://github.com/Fdawgs/sft-logos/compare/v1.0.0...v1.0.1) (2023-02-13)
 
 
